@@ -281,9 +281,9 @@ export default {
                   "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/maying.ini"
               },
               {
-                label: "Ytoo",
+                label: "Chauncey09",
                 value:
-                  "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/ytoo.ini"
+                  "https://raw.githubusercontent.com/chauncey09/sub-web-rule/main/Chauncey09.ini"
               },
               {
                 label: "FlowerCloud",
