@@ -1,6 +1,8 @@
 # sub-web
 
 基于 vue-cli 与 [tindy2013/subconverter](https://github.com/tindy2013/subconverter) 后端实现的配置自动生成。
+## 修改说明
+根据自己的实际需求添加了一个远程规则列表
 
 ## Table of Contents
 
